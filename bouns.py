@@ -1,4 +1,4 @@
-salary = float(input("Enter employee salary:"))
+salary = 10000
 bonus = salary * 0.10
 total_salary = salary + bonus
 print("Bonus Amount:", bonus)
